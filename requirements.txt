@@ -1,0 +1,6 @@
+requests
+BeautifulSoup
+nltk
+numpy
+lmxl
+notebook
